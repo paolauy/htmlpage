@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About the World</title>
+</head>
+<body>
+  <h1>About the World</h1>
+  
+  <h2>Continents</h2>
+  <ul>
+    <li>Africa</li>
+    <li>Asia</li>
+    <li>Europe</li>
+    <li>North America</li>
+    <li>South America</li>
+    <li>Australia</li>
+    <li>Antarctica</li>
+  </ul>
+  
+  <h2>World Landmarks</h2>
+  <ol>
+    <li>The Great Wall of China</li>
+    <li>Machu Picchu, Peru</li>
+    <li>Taj Mahal, India</li>
+    <li>Colosseum, Italy</li>
+    <li>Pyramids of Giza, Egypt</li>
+    <li>Statue of Liberty, USA</li>
+    <li>Eiffel Tower, France</li>
+  </ol>
+  
+  <h2>Interesting Facts</h2>
+  <ul>
+    <li>The world's largest ocean is the Pacific Ocean.</li>
+    <li>Mount Everest is the highest peak on Earth.</li>
+    <li>The Sahara Desert is the largest hot desert.</li>
+    <li>The Nile River is the longest river in the world.</li>
+    <li>Antarctica is the coldest and driest continent.</li>
+  </ul>
+  
+  <h2>Images</h2>
+  <img src="https://example.com/world-image.jpg" alt="World Image">
+  
+</body>
+</html>
